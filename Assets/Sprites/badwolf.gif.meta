@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: c5d7d53946846784cb298b8e070f59ad
+timeCreated: 1448216477
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badwolf_0
+    21300002: badwolf_1
+    21300004: badwolf_2
+    21300006: badwolf_3
+    21300008: badwolf_4
+    21300010: badwolf_5
+    21300012: badwolf_6
+    21300014: badwolf_7
+    21300016: badwolf_8
+    21300018: badwolf_9
+    21300020: badwolf_10
+    21300022: badwolf_11
+    21300024: badwolf_12
+    21300026: badwolf_13
+    21300028: badwolf_14
+    21300030: badwolf_15
+    21300032: badwolf_16
+    21300034: badwolf_17
+    21300036: badwolf_18
+    21300038: badwolf_19
+    21300040: badwolf_20
+    21300042: badwolf_24
+    21300044: badwolf_25
+    21300046: badwolf_26
+    21300048: badwolf_27
+    21300050: badwolf_28
+    21300052: badwolf_29
+    21300054: badwolf_30
+    21300056: badwolf_31
+    21300058: badwolf_32
+    21300060: badwolf_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: badwolf_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 177
+        width: 50
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177
+        width: 50
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 177
+        width: 51
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 176
+        width: 50
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 176
+        width: 51
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 176
+        width: 50
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 177
+        width: 51
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 171
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 124
+        width: 51
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 125
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 126
+        width: 51
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 126
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 125
+        width: 51
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 127
+        width: 74
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 114
+        width: 50
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 109
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 59
+        width: 47
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 62
+        width: 58
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 65
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 59
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 63
+        width: 46
+        height: 55
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 65
+        width: 53
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 65
+        width: 58
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_26
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 65
+        width: 50
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 50
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11
+        width: 51
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 9
+        width: 48
+        height: 43
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 7
+        width: 49
+        height: 44
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7
+        width: 47
+        height: 44
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 7
+        width: 57
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badwolf_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6
+        width: 67
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

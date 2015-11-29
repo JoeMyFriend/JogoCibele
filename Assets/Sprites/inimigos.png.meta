@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 3d65665186f7f8147add968ad9daee8a
+timeCreated: 1448218753
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: inimigos_17
+    21300002: inimigos_18
+    21300004: inimigos_19
+    21300006: inimigos_22
+    21300008: inimigos_23
+    21300010: inimigos_24
+    21300012: inimigos_25
+    21300014: inimigos_30
+    21300016: inimigos_31
+    21300018: inimigos_32
+    21300020: inimigos_33
+    21300022: inimigos_34
+    21300024: inimigos_35
+    21300026: inimigos_36
+    21300028: inimigos_37
+    21300030: inimigos_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: inimigos_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 406
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 406
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 406
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 347
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 347
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 346
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 347
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 293
+        width: 37
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 293
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 293
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_34
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 293
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 238
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 238
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 238
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inimigos_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 173
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

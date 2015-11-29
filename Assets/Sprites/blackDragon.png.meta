@@ -1,0 +1,1551 @@
+fileFormatVersion: 2
+guid: 2c2e2f202171f3c42bc2dd79d83b8a55
+timeCreated: 1448209669
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blackDragon_0
+    21300002: blackDragon_1
+    21300004: blackDragon_2
+    21300006: blackDragon_3
+    21300008: blackDragon_4
+    21300010: blackDragon_5
+    21300012: blackDragon_6
+    21300014: blackDragon_7
+    21300016: blackDragon_8
+    21300018: blackDragon_9
+    21300020: blackDragon_10
+    21300022: blackDragon_11
+    21300024: blackDragon_12
+    21300026: blackDragon_13
+    21300028: blackDragon_14
+    21300030: blackDragon_15
+    21300032: blackDragon_16
+    21300034: blackDragon_17
+    21300036: blackDragon_18
+    21300038: blackDragon_19
+    21300040: blackDragon_20
+    21300042: blackDragon_21
+    21300044: blackDragon_22
+    21300046: blackDragon_23
+    21300048: blackDragon_24
+    21300050: blackDragon_25
+    21300052: blackDragon_26
+    21300054: blackDragon_27
+    21300056: blackDragon_28
+    21300058: blackDragon_29
+    21300060: blackDragon_30
+    21300062: blackDragon_31
+    21300064: blackDragon_32
+    21300066: blackDragon_33
+    21300068: blackDragon_34
+    21300070: blackDragon_35
+    21300072: blackDragon_36
+    21300074: blackDragon_37
+    21300076: blackDragon_38
+    21300078: blackDragon_39
+    21300080: blackDragon_40
+    21300082: blackDragon_41
+    21300084: blackDragon_42
+    21300086: blackDragon_43
+    21300088: blackDragon_44
+    21300090: blackDragon_45
+    21300092: blackDragon_46
+    21300094: blackDragon_47
+    21300096: blackDragon_48
+    21300098: blackDragon_49
+    21300100: blackDragon_50
+    21300102: blackDragon_51
+    21300104: blackDragon_52
+    21300106: blackDragon_53
+    21300108: blackDragon_54
+    21300110: blackDragon_55
+    21300112: blackDragon_56
+    21300114: blackDragon_57
+    21300116: blackDragon_58
+    21300118: blackDragon_59
+    21300120: blackDragon_60
+    21300122: blackDragon_61
+    21300124: blackDragon_62
+    21300126: blackDragon_63
+    21300128: blackDragon_64
+    21300130: blackDragon_65
+    21300132: blackDragon_66
+    21300134: blackDragon_67
+    21300136: blackDragon_68
+    21300138: blackDragon_69
+    21300140: blackDragon_70
+    21300142: blackDragon_71
+    21300144: blackDragon_72
+    21300146: blackDragon_73
+    21300148: blackDragon_74
+    21300150: blackDragon_75
+    21300152: blackDragon_76
+    21300154: blackDragon_77
+    21300156: blackDragon_78
+    21300158: blackDragon_79
+    21300160: blackDragon_80
+    21300162: blackDragon_81
+    21300164: blackDragon_82
+    21300166: blackDragon_83
+    21300168: blackDragon_84
+    21300170: blackDragon_85
+    21300172: blackDragon_86
+    21300174: blackDragon_87
+    21300176: blackDragon_88
+    21300178: blackDragon_89
+    21300180: blackDragon_90
+    21300182: blackDragon_91
+    21300184: blackDragon_92
+    21300186: blackDragon_93
+    21300188: blackDragon_94
+    21300190: blackDragon_95
+    21300192: blackDragon_96
+    21300194: blackDragon_97
+    21300196: blackDragon_98
+    21300198: blackDragon_99
+    21300200: blackDragon_100
+    21300202: blackDragon_101
+    21300204: blackDragon_102
+    21300206: blackDragon_103
+    21300208: blackDragon_104
+    21300210: blackDragon_105
+    21300212: blackDragon_106
+    21300214: blackDragon_107
+    21300216: blackDragon_108
+    21300218: blackDragon_109
+    21300220: blackDragon_110
+    21300222: blackDragon_111
+    21300224: blackDragon_112
+    21300226: blackDragon_113
+    21300228: blackDragon_114
+    21300230: blackDragon_115
+    21300232: blackDragon_116
+    21300234: blackDragon_117
+    21300236: blackDragon_118
+    21300238: blackDragon_119
+    21300240: blackDragon_120
+    21300242: blackDragon_121
+    21300244: blackDragon_122
+    21300246: blackDragon_123
+    21300248: blackDragon_124
+    21300250: blackDragon_125
+    21300252: blackDragon_126
+    21300254: blackDragon_127
+    21300256: blackDragon_128
+    21300258: blackDragon_129
+    21300260: blackDragon_130
+    21300262: blackDragon_131
+    21300264: blackDragon_132
+    21300266: blackDragon_133
+    21300268: blackDragon_134
+    21300270: blackDragon_135
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blackDragon_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1148
+        width: 89
+        height: 115
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1149
+        width: 88
+        height: 115
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1149
+        width: 89
+        height: 114
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1149
+        width: 86
+        height: 114
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1150
+        width: 85
+        height: 109
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1151
+        width: 88
+        height: 110
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1149
+        width: 101
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1155
+        width: 98
+        height: 120
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1150
+        width: 96
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1154
+        width: 167
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_10
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1157
+        width: 182
+        height: 116
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1158
+        width: 184
+        height: 116
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_12
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1157
+        width: 169
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_13
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1152
+        width: 132
+        height: 120
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_14
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1171
+        width: 60
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_15
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1206
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_16
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1202
+        width: 47
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_17
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1200
+        width: 65
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_18
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1185
+        width: 57
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_19
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1185
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_20
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1185
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_21
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 1182
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_22
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1185
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_23
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1182
+        width: 47
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_24
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1185
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_25
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1167
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_26
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1165
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_27
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1165
+        width: 92
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_28
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1167
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_29
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1167
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 952
+        width: 132
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 952
+        width: 178
+        height: 123
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 966
+        width: 177
+        height: 120
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 976
+        width: 180
+        height: 114
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_34
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 976
+        width: 180
+        height: 99
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_35
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 961
+        width: 181
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_36
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 964
+        width: 157
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_37
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 961
+        width: 143
+        height: 118
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 959
+        width: 136
+        height: 114
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_39
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 958
+        width: 106
+        height: 106
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_40
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 947
+        width: 93
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_41
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1018
+        width: 62
+        height: 51
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_42
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1018
+        width: 61
+        height: 52
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_43
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1019
+        width: 58
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_44
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1019
+        width: 60
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_45
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 975
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_46
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 742
+        width: 131
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 874
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_48
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 873
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_49
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 757
+        width: 125
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_50
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 879
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_51
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 879
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_52
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 794
+        width: 88
+        height: 177
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 741
+        width: 105
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 736
+        width: 119
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_55
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 744
+        width: 125
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_56
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 866
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_57
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 748
+        width: 105
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_58
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 751
+        width: 129
+        height: 128
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_59
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 752
+        width: 131
+        height: 125
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_60
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 757
+        width: 108
+        height: 102
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_61
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 854
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_62
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 848
+        width: 43
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_63
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 848
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_64
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 844
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_65
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 823
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_66
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 814
+        width: 127
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_67
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 822
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_68
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 816
+        width: 28
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_69
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 760
+        width: 97
+        height: 60
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_70
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 798
+        width: 49
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_71
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 798
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_72
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 801
+        width: 46
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_73
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 758
+        width: 89
+        height: 43
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_74
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 521
+        width: 252
+        height: 159
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_75
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 512
+        width: 205
+        height: 158
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_76
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 664
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_77
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 660
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_78
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 662
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_79
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 659
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_80
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 534
+        width: 253
+        height: 128
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_81
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 524
+        width: 164
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_82
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 660
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_83
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 535
+        width: 106
+        height: 120
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 532
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_85
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 539
+        width: 157
+        height: 119
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 535
+        width: 186
+        height: 124
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_87
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 524
+        width: 203
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_88
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 537
+        width: 157
+        height: 123
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_89
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 538
+        width: 121
+        height: 115
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_90
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 649
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_91
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 522
+        width: 187
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_92
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 643
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_93
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 634
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_94
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 297
+        width: 143
+        height: 124
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 174
+        height: 114
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_96
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 304
+        width: 200
+        height: 118
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 304
+        width: 208
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_98
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 300
+        width: 221
+        height: 116
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_99
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 300
+        width: 153
+        height: 116
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_100
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 370
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_101
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 319
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_102
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 289
+        width: 136
+        height: 131
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_103
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 297
+        width: 171
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_104
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 299
+        width: 225
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_105
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 298
+        width: 235
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_106
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 289
+        width: 184
+        height: 118
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_107
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 306
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_108
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 293
+        width: 159
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_109
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 355
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_110
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 351
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_111
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 344
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_112
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 297
+        width: 63
+        height: 58
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_113
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 304
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_114
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 291
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 84
+        width: 136
+        height: 123
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_116
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 90
+        width: 147
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_117
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 92
+        width: 133
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_118
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 91
+        width: 169
+        height: 114
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_119
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 69
+        width: 198
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_120
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 54
+        width: 215
+        height: 143
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_121
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 49
+        width: 197
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_122
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 84
+        width: 141
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_123
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 53
+        width: 112
+        height: 152
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_124
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 82
+        width: 169
+        height: 115
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_125
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 20
+        width: 199
+        height: 176
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_126
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 11
+        width: 215
+        height: 177
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_127
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 10
+        width: 197
+        height: 184
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_128
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 81
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_129
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 83
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_130
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 74
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_131
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 82
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_132
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 61
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_133
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 67
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_134
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 65
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackDragon_135
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 56
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
