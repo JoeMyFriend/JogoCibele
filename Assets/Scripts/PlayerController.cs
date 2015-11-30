@@ -38,6 +38,10 @@ public class PlayerController : MonoBehaviour {
 	
 	// COLISOR
 	public Transform colisor;
+
+	//SOM
+	public AudioSource audio;
+	public AudioClip soundJump;
 	
 	
 	// Use this for initialization
@@ -148,6 +152,9 @@ public class PlayerController : MonoBehaviour {
 		if(Input.GetButtonDown("Jump") && grounded) {
 			Debug.Log("Pulando");
 			playerRigidbody.AddForce(new Vector2(speed * Time.deltaTime, forceJump));
+
+			audio.PlayOneShot(soundJump);
+
 			/*
 			if(roll) {
 				colisor.position = new Vector3(colisor.position.x, colisor.position.y + 0.6f, colisor.position.z);
